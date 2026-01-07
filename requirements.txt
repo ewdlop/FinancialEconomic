@@ -55,6 +55,7 @@ pygame==2.6.1
 Pygments==2.19.1
 pyloco==0.0.139
 pyparsing==3.2.1
+pyqlib==0.9.7
 python-dateutil==2.9.0.post0
 pytz==2025.1
 pywin32-ctypes==0.2.3
